@@ -1,3 +1,4 @@
+# Hangman game for kids in command line form
 import os;
 
 while True :
